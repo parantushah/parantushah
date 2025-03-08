@@ -1,12 +1,13 @@
 ## Hi there 👋
 
+I am an Associate Director of Data Science at the EMD Serono R&D Institute Inc which is a biopharma business of Merck KGaA. 
+I work to impact Drug Discovery and Development pipeline with the help of AI/ML, statistics and biology. 
 <!--
 **parantushah/parantushah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-I am an Associate Director of Data Science at the EMD Serono R&D Institute Inc which is a biopharma business of Merck KGaA. 
-I work to impact Drug Discovery and Development pipeline with the help of AI/ML, statistics and biology. 
+
 
 
 
